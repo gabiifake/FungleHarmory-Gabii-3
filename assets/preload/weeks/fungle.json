@@ -1,0 +1,32 @@
+{
+	"storyName": "Fungle Week",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "fungle",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"orange",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Mushrooms",
+			"mushroom",
+			[
+				226,
+				113,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fungle Week",
+	"hiddenUntilUnlocked": false
+}
