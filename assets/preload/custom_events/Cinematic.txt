@@ -1,0 +1,4 @@
+Value 1: "On" or "Off"
+
+On - Turn On Cinematics
+Off - Turn Off Cinematics
