@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M Orange Idle",
+	"image": "Menu_Orange",
+	"position": [
+		180,
+		20
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "M Orange Idle"
+}
