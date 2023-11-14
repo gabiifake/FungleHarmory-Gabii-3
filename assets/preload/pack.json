@@ -1,0 +1,8 @@
+{
+	"name": "Fungle Harmony",
+	"description": "This is an among us mod, but the mod takes place in the new map called The Fungle!",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [226, 113, 60],
+	"discordRPC": "1172658835287183451"
+}
